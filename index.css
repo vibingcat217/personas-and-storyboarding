@@ -156,10 +156,8 @@
 
 .storyboard-caption {
   color: var(--grey);
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 @media only screen and (max-width: 1000px) {
